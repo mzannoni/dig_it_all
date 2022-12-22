@@ -32,7 +32,7 @@ end blind_cycler;
 architecture Behavioral of blind_cycler is
 
 type st_id is (A, B, C, D);
-signal cur_st;
+signal cur_st : st_id;
 
 begin
 
@@ -43,33 +43,33 @@ begin
             when A =>
                 out_num <= "000";
                 if (dir = '0') then
-                    cur_st = B;
+                    cur_st <= B;
                 else
-                    cur_st = D;
+                    cur_st <= D;
                 end if;
 
             when B =>
                 out_num <= "010";
                 if (dir = '0') then
-                    cur_st = C;
+                    cur_st <= C;
                 else
-                    cur_st = A;
+                    cur_st <= A;
                 end if;
 
             when C =>
                 out_num <= "101";
                 if (dir = '0') then
-                    cur_st = D;
+                    cur_st <= D;
                 else
-                    cur_st = B;
+                    cur_st <= B;
                 end if;
 
             when D =>
                 out_num <= "111";
                 if (dir = '0') then
-                    cur_st = A;
+                    cur_st <= A;
                 else
-                    cur_st = C;
+                    cur_st <= C;
                 end if;
 
             when others =>
