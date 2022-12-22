@@ -1,0 +1,50 @@
+# Based on the .gitignore file of GHDL project:
+# https://github.com/ghdl/ghdl/blob/master/.gitignore
+# but stripped down to my needs
+
+# Ada outputs
+*~
+*.ali
+*.o
+b~*.ad?
+
+# Generated files on Linux
+config.status
+default_paths.ads
+elf_arch.ads
+ghdl1-*
+ghdl.gpr
+ghdl_llvm
+ghdl_mcode
+ghdlsynth_maybe.ads
+grt-backtraces-impl.ads
+grt-files
+grt-files.in
+grt.lst
+lib/
+libghdl-*.so
+libghdl.a
+libghdl.bind
+libghdl.link
+libghdlvpi.so
+libgrt.a
+/Makefile
+ortho_code-x86-flags.ads
+run-bind.adb
+run-bind.ads
+src/version.ads
+version.ads
+version.tmp
+
+# GDB outputs
+.gdb_history
+
+# GHDL outputs
+*.v87
+*.v93
+*.v08
+*.cf
+e~*.lst
+
+# exclude working dir
+work/
