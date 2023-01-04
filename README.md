@@ -7,4 +7,4 @@ Simple VHDL example, which I'm using to refresh my familiarity with digital desi
 A first [text-bench](./tb_main.vhdl) for a simple [sequence cycler](./blind_cycler.vhdl) can be run following the basics steps noted down [here](./command_notes.md).
 
 ## TODO:
-- [] create a proper script (e.g. based on [command notes](./command_notes.md)).
+- [ ] create a proper script (e.g. based on [command notes](./command_notes.md)).
