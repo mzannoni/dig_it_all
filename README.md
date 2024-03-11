@@ -8,7 +8,7 @@ Workspace to learn basic digital design techniques and languages.
 
 ## Getting started
 
-A first [text-bench](./tb_main.vhdl) for a simple [sequence cycler](./blind_cycler.vhdl) can be run following the basics steps noted down [here](./command_notes.md).
+A first [test-bench](./tb_main.vhdl) for a simple [sequence cycler](./blind_cycler.vhdl) can be run following the basics steps noted down [here](./command_notes.md).
 
 ## TODO:
 - [] create a proper script for GHDL (e.g. based on [GHDL command notes](./ghdl_command_notes.md)).
