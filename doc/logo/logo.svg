@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="1.6075631"
+     inkscape:cx="238.87088"
+     inkscape:cy="314.14008"
+     inkscape:window-width="3440"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     inkscape:export-bgcolor="#ffffff00">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="true"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient187"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1"
+         offset="0"
+         id="stop188" />
+      <stop
+         style="stop-color:#999999;stop-opacity:1"
+         offset="1"
+         id="stop189" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient184"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#483737;stop-opacity:1"
+         offset="0"
+         id="stop184" />
+      <stop
+         style="stop-color:#916f6f;stop-opacity:1"
+         offset="1"
+         id="stop185" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient184"
+       id="linearGradient185"
+       x1="125"
+       y1="170"
+       x2="145"
+       y2="160"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1666667,0,0,1.1743377,-66.666669,-56.938723)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient187"
+       id="radialGradient187"
+       cx="185.66431"
+       cy="286.11856"
+       fx="185.66431"
+       fy="286.11856"
+       r="63.158012"
+       gradientTransform="matrix(1.0159706,1.9523327,-0.54883945,0.28937924,117.57034,-196.88619)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       id="g189"
+       transform="matrix(0.87142089,0.03421772,-0.03421772,0.87142089,35.202287,11.285691)"
+       style="stroke-width:1.14667">
+      <path
+         style="fill:url(#radialGradient187);fill-opacity:1;stroke:#000000;stroke-width:4.58668;stroke-dasharray:none"
+         d="M 202.56697,213.14805 C 287.66002,375.47 176.23503,434.64749 91.14198,272.32555 Z"
+         id="path154"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#808080;stroke:#000000;stroke-width:4.58668;stroke-dasharray:none"
+         d="m 155.6572,259.52872 41.07941,78.36232"
+         id="path155"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="path157"
+         style="fill:url(#linearGradient185);fill-opacity:1;stroke:#000000;stroke-width:4.58668;stroke-dasharray:none"
+         d="M 13.662708,70.18156 7.7942215,58.986939 74.649221,23.480442 80.517707,34.67506 63.803958,43.551679 163.56823,233.86017 130.14073,251.61342 30.376457,61.304929 Z"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="fill:#000000;stroke:#000000"
+       x="75"
+       y="430"
+       id="text106"><tspan
+         sodipodi:role="line"
+         id="tspan106"
+         x="75"
+         y="430"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect128-4"
+       width="35"
+       height="35.230129"
+       x="120"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use128-8"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use129-7"
+       width="35"
+       height="35.230129"
+       x="190"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use130-1"
+       width="35"
+       height="35.230129"
+       x="225"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use131-7"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use132-2"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use133-7"
+       width="35"
+       height="35.230129"
+       x="190"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use134-2"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use135-2"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use136-6"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use137-1"
+       width="35"
+       height="35.230129"
+       x="225"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use138-0"
+       width="35"
+       height="35.230129"
+       x="225"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use139-6"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use140-1"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use141-5"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use142-9"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use143-4"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use144-9"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use145-0"
+       width="35"
+       height="35.230129"
+       x="435"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use146-9"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use147-1"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use148-7"
+       width="35"
+       height="35.230129"
+       x="225"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use149-7"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use150-1"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use151-1"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use152-5"
+       width="35"
+       height="35.230129"
+       x="400"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use153-9"
+       width="35"
+       height="35.230129"
+       x="190"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use154-7"
+       width="35"
+       height="35.230129"
+       x="400"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect157-7"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="303.8493" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect158-6"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="303.8493" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect159-7"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="303.8493" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect160-3"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect161-6"
+       width="35"
+       height="35.230129"
+       x="400"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect162-5"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="268.6192" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect163-6"
+       width="35"
+       height="35.230129"
+       x="435"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect164-3"
+       width="35"
+       height="35.230129"
+       x="470"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect165-9"
+       width="35"
+       height="35.230129"
+       x="190"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect166-4"
+       width="35"
+       height="35.230129"
+       x="85"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect167-8"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect168-1"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="268.6192" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect169-2"
+       width="35"
+       height="35.230129"
+       x="225"
+       y="303.8493" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect170-9"
+       width="35"
+       height="35.230129"
+       x="190"
+       y="268.6192" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect171-3"
+       width="35"
+       height="35.230129"
+       x="50"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect172-9"
+       width="35"
+       height="35.230129"
+       x="85"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect173-0"
+       width="35"
+       height="35.230129"
+       x="120"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect174-8"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect175-8"
+       width="35"
+       height="35.230129"
+       x="190"
+       y="303.8493" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect176-5"
+       width="35"
+       height="35.230129"
+       x="225"
+       y="268.6192" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect177-0"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="233.38907" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect178-9"
+       width="35"
+       height="35.230129"
+       x="15"
+       y="444.76987" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect179-6"
+       width="35"
+       height="35.230129"
+       x="50"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect180-3"
+       width="35"
+       height="35.230129"
+       x="120"
+       y="339.07947" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect181-8"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="303.8493" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect182-5"
+       width="35"
+       height="35.230129"
+       x="85"
+       y="374.3096" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect183-6"
+       width="35"
+       height="35.230129"
+       x="120"
+       y="409.53973" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect184-1"
+       width="35"
+       height="35.230129"
+       x="224.54102"
+       y="232.8732" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="265.45898"
+       y="265.51587"
+       id="text189"><tspan
+         sodipodi:role="line"
+         id="tspan189"
+         x="265.45898"
+         y="265.51587"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="229.32617"
+       y="265.01953"
+       id="text190"><tspan
+         sodipodi:role="line"
+         id="tspan190"
+         x="229.32617"
+         y="265.01953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="265.45898"
+       y="300.74597"
+       id="text191"><tspan
+         sodipodi:role="line"
+         id="tspan191"
+         x="265.45898"
+         y="300.74597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="230.459"
+       y="300.74597"
+       id="text192"><tspan
+         sodipodi:role="line"
+         id="tspan192"
+         x="230.459"
+         y="300.74597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="300.45898"
+       y="335.9761"
+       id="text193"><tspan
+         sodipodi:role="line"
+         id="tspan193"
+         x="300.45898"
+         y="335.9761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="195.459"
+       y="371.20624"
+       id="text194"><tspan
+         sodipodi:role="line"
+         id="tspan194"
+         x="195.459"
+         y="371.20624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="160.45898"
+       y="335.9761"
+       id="text195"><tspan
+         sodipodi:role="line"
+         id="tspan195"
+         x="160.45898"
+         y="335.9761"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="160.45898"
+       y="371.20624"
+       id="text196"><tspan
+         sodipodi:role="line"
+         id="tspan196"
+         x="160.45898"
+         y="371.20624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="125.45899"
+       y="371.20624"
+       id="text197"><tspan
+         sodipodi:role="line"
+         id="tspan197"
+         x="125.45899"
+         y="371.20624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="265.45898"
+       y="371.20624"
+       id="text198"><tspan
+         sodipodi:role="line"
+         id="tspan198"
+         x="265.45898"
+         y="371.20624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="370.45898"
+       y="371.20624"
+       id="text199"><tspan
+         sodipodi:role="line"
+         id="tspan199"
+         x="370.45898"
+         y="371.20624"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="229.78517"
+       y="335.99564"
+       id="text200"><tspan
+         sodipodi:role="line"
+         id="tspan200"
+         x="229.78517"
+         y="335.99564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="194.78517"
+       y="335.99564"
+       id="text201"><tspan
+         sodipodi:role="line"
+         id="tspan201"
+         x="194.78517"
+         y="335.99564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="264.78516"
+       y="335.99564"
+       id="text202"><tspan
+         sodipodi:role="line"
+         id="tspan202"
+         x="264.78516"
+         y="335.99564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="299.78516"
+       y="300.7655"
+       id="text203"><tspan
+         sodipodi:role="line"
+         id="tspan203"
+         x="299.78516"
+         y="300.7655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="334.78516"
+       y="335.99564"
+       id="text204"><tspan
+         sodipodi:role="line"
+         id="tspan204"
+         x="334.78516"
+         y="335.99564"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="334.78516"
+       y="371.22577"
+       id="text205"><tspan
+         sodipodi:role="line"
+         id="tspan205"
+         x="334.78516"
+         y="371.22577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="299.78516"
+       y="371.22577"
+       id="text206"><tspan
+         sodipodi:role="line"
+         id="tspan206"
+         x="299.78516"
+         y="371.22577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="229.78517"
+       y="371.22577"
+       id="text207"><tspan
+         sodipodi:role="line"
+         id="tspan207"
+         x="229.78517"
+         y="371.22577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="229.78517"
+       y="406.4559"
+       id="text208"><tspan
+         sodipodi:role="line"
+         id="tspan208"
+         x="229.78517"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="194.78517"
+       y="406.4559"
+       id="text209"><tspan
+         sodipodi:role="line"
+         id="tspan209"
+         x="194.78517"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="124.78516"
+       y="406.4559"
+       id="text210"><tspan
+         sodipodi:role="line"
+         id="tspan210"
+         x="124.78516"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="89.785164"
+       y="406.4559"
+       id="text211"><tspan
+         sodipodi:role="line"
+         id="tspan211"
+         x="89.785164"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="159.78516"
+       y="441.68604"
+       id="text212"><tspan
+         sodipodi:role="line"
+         id="tspan212"
+         x="159.78516"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="89.785164"
+       y="441.68604"
+       id="text213"><tspan
+         sodipodi:role="line"
+         id="tspan213"
+         x="89.785164"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="194.78517"
+       y="441.68604"
+       id="text214"><tspan
+         sodipodi:role="line"
+         id="tspan214"
+         x="194.78517"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="264.78516"
+       y="441.68604"
+       id="text215"><tspan
+         sodipodi:role="line"
+         id="tspan215"
+         x="264.78516"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="54.78516"
+       y="476.91617"
+       id="text216"><tspan
+         sodipodi:role="line"
+         id="tspan216"
+         x="54.78516"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="124.78516"
+       y="476.91617"
+       id="text217"><tspan
+         sodipodi:role="line"
+         id="tspan217"
+         x="124.78516"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="159.78516"
+       y="476.91617"
+       id="text218"><tspan
+         sodipodi:role="line"
+         id="tspan218"
+         x="159.78516"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="229.78517"
+       y="476.91617"
+       id="text219"><tspan
+         sodipodi:role="line"
+         id="tspan219"
+         x="229.78517"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="264.78516"
+       y="476.91617"
+       id="text220"><tspan
+         sodipodi:role="line"
+         id="tspan220"
+         x="264.78516"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="334.78516"
+       y="441.68604"
+       id="text221"><tspan
+         sodipodi:role="line"
+         id="tspan221"
+         x="334.78516"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="334.78516"
+       y="406.4559"
+       id="text222"><tspan
+         sodipodi:role="line"
+         id="tspan222"
+         x="334.78516"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="299.78516"
+       y="406.4559"
+       id="text223"><tspan
+         sodipodi:role="line"
+         id="tspan223"
+         x="299.78516"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="404.78516"
+       y="406.4559"
+       id="text224"><tspan
+         sodipodi:role="line"
+         id="tspan224"
+         x="404.78516"
+         y="406.4559"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="404.78516"
+       y="441.68604"
+       id="text225"><tspan
+         sodipodi:role="line"
+         id="tspan225"
+         x="404.78516"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="369.78516"
+       y="441.68604"
+       id="text226"><tspan
+         sodipodi:role="line"
+         id="tspan226"
+         x="369.78516"
+         y="441.68604"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="369.78516"
+       y="476.91617"
+       id="text227"><tspan
+         sodipodi:role="line"
+         id="tspan227"
+         x="369.78516"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="404.78516"
+       y="476.91617"
+       id="text228"><tspan
+         sodipodi:role="line"
+         id="tspan228"
+         x="404.78516"
+         y="476.91617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="370.45898"
+       y="406.43637"
+       id="text229"><tspan
+         sodipodi:role="line"
+         id="tspan229"
+         x="370.45898"
+         y="406.43637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="265.45898"
+       y="406.43637"
+       id="text230"><tspan
+         sodipodi:role="line"
+         id="tspan230"
+         x="265.45898"
+         y="406.43637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="160.45898"
+       y="406.43637"
+       id="text231"><tspan
+         sodipodi:role="line"
+         id="tspan231"
+         x="160.45898"
+         y="406.43637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="55.458988"
+       y="441.6665"
+       id="text232"><tspan
+         sodipodi:role="line"
+         id="tspan232"
+         x="55.458988"
+         y="441.6665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="20.458988"
+       y="476.89664"
+       id="text233"><tspan
+         sodipodi:role="line"
+         id="tspan233"
+         x="20.458988"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="90.458992"
+       y="476.89664"
+       id="text234"><tspan
+         sodipodi:role="line"
+         id="tspan234"
+         x="90.458992"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="125.45899"
+       y="441.6665"
+       id="text235"><tspan
+         sodipodi:role="line"
+         id="tspan235"
+         x="125.45899"
+         y="441.6665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="230.459"
+       y="441.6665"
+       id="text236"><tspan
+         sodipodi:role="line"
+         id="tspan236"
+         x="230.459"
+         y="441.6665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="195.459"
+       y="476.89664"
+       id="text237"><tspan
+         sodipodi:role="line"
+         id="tspan237"
+         x="195.459"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="300.45898"
+       y="441.6665"
+       id="text238"><tspan
+         sodipodi:role="line"
+         id="tspan238"
+         x="300.45898"
+         y="441.6665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="300.45898"
+       y="476.89664"
+       id="text239"><tspan
+         sodipodi:role="line"
+         id="tspan239"
+         x="300.45898"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="335.45898"
+       y="476.89664"
+       id="text240"><tspan
+         sodipodi:role="line"
+         id="tspan240"
+         x="335.45898"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="440.45898"
+       y="441.6665"
+       id="text241"><tspan
+         sodipodi:role="line"
+         id="tspan241"
+         x="440.45898"
+         y="441.6665"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="440.45898"
+       y="476.89664"
+       id="text242"><tspan
+         sodipodi:role="line"
+         id="tspan242"
+         x="440.45898"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="475.45901"
+       y="476.89664"
+       id="text243"><tspan
+         sodipodi:role="line"
+         id="tspan243"
+         x="475.45901"
+         y="476.89664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'FiraMono Nerd Font Mono';-inkscape-font-specification:'FiraMono Nerd Font Mono';display:inline;opacity:1;fill:#ffffff;stroke:#ff6600;stroke-width:4;stroke-dasharray:none"
+       x="194.78516"
+       y="300.7655"
+       id="text244"><tspan
+         sodipodi:role="line"
+         id="tspan244"
+         x="194.78516"
+         y="300.7655"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MesloLGS Nerd Font Mono';-inkscape-font-specification:'MesloLGS Nerd Font Mono';fill:#000000;stroke:none">1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline;opacity:1">
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect128"
+       width="35"
+       height="35.230129"
+       x="120.00001"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use128"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use129"
+       width="35"
+       height="35.230129"
+       x="190.00002"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use130"
+       width="35"
+       height="35.230129"
+       x="225.00002"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use131"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use132"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use133"
+       width="35"
+       height="35.230129"
+       x="190.00002"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use134"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use135"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="409.53973" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use136"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use137"
+       width="35"
+       height="35.230129"
+       x="225.00002"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use138"
+       width="35"
+       height="35.230129"
+       x="225.00002"
+       y="339.07947" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use139"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="339.07947" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use140"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use141"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use142"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use143"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="409.53973" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use144"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use145"
+       width="35"
+       height="35.230129"
+       x="435"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use146"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="339.07947" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use147"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="339.07947" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use148"
+       width="35"
+       height="35.230129"
+       x="225.00002"
+       y="409.53973" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="use149"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use150"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use151"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use152"
+       width="35"
+       height="35.230129"
+       x="400"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use153"
+       width="35"
+       height="35.230129"
+       x="190.00002"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="use154"
+       width="35"
+       height="35.230129"
+       x="400"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect157"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="303.84933" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect158"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="303.84933" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect159"
+       width="35"
+       height="35.230129"
+       x="330"
+       y="303.84933" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect160"
+       width="35"
+       height="35.230129"
+       x="365"
+       y="339.07947" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect161"
+       width="35"
+       height="35.230129"
+       x="400"
+       y="374.3096" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect162"
+       width="35"
+       height="35.230129"
+       x="295"
+       y="268.6192" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect163"
+       width="35"
+       height="35.230129"
+       x="435"
+       y="409.53973" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect164"
+       width="35"
+       height="35.230129"
+       x="470.00003"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect165"
+       width="35"
+       height="35.230129"
+       x="190.00002"
+       y="339.07947" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect166"
+       width="35"
+       height="35.230129"
+       x="85.000008"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect167"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="374.3096" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect168"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="268.6192" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect169"
+       width="35"
+       height="35.230129"
+       x="225.00002"
+       y="303.84933" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect170"
+       width="35"
+       height="35.230129"
+       x="190.00002"
+       y="268.6192" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect171"
+       width="35"
+       height="35.230129"
+       x="50.000004"
+       y="444.76987" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect172"
+       width="35"
+       height="35.230129"
+       x="85.000008"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect173"
+       width="35"
+       height="35.230129"
+       x="120.00001"
+       y="374.3096" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect174"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="339.07947" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect175"
+       width="35"
+       height="35.230129"
+       x="190.00002"
+       y="303.84933" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect176"
+       width="35"
+       height="35.230129"
+       x="225.00002"
+       y="268.6192" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect177"
+       width="35"
+       height="35.230129"
+       x="260"
+       y="233.38908" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect178"
+       width="35"
+       height="35.230129"
+       x="15.000003"
+       y="444.76987" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect179"
+       width="35"
+       height="35.230129"
+       x="50.000004"
+       y="409.53973" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect180"
+       width="35"
+       height="35.230129"
+       x="120.00001"
+       y="339.07947" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect181"
+       width="35"
+       height="35.230129"
+       x="155"
+       y="303.84933" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect182"
+       width="35"
+       height="35.230129"
+       x="85.000008"
+       y="374.3096" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       id="rect183"
+       width="35"
+       height="35.230129"
+       x="120.00001"
+       y="409.53973" />
+    <rect
+       style="fill:#000000;stroke:#000000;stroke-width:1"
+       id="rect184"
+       width="35"
+       height="35.230129"
+       x="224.54102"
+       y="232.87321" />
+  </g>
+</svg>
