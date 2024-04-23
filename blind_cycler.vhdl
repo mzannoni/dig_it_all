@@ -41,7 +41,7 @@ begin
     if(nxt'event and nxt = '1') then
         case (cur_st) is
             when A =>
-                out_num <= "000";
+                -- out_num <= "000";
                 if (dir = '0') then
                     cur_st <= B;
                 else
@@ -49,7 +49,7 @@ begin
                 end if;
 
             when B =>
-                out_num <= "010";
+                -- out_num <= "010";
                 if (dir = '0') then
                     cur_st <= C;
                 else
@@ -57,7 +57,7 @@ begin
                 end if;
 
             when C =>
-                out_num <= "101";
+                -- out_num <= "101";
                 if (dir = '0') then
                     cur_st <= D;
                 else
@@ -65,7 +65,7 @@ begin
                 end if;
 
             when D =>
-                out_num <= "111";
+                -- out_num <= "111";
                 if (dir = '0') then
                     cur_st <= A;
                 else
@@ -78,6 +78,22 @@ begin
 
     else null;
     end if;
-
 end process;
+
+process (cur_st)
+begin
+    case (cur_st) is
+        when A =>
+            out_num <= "000";
+        when B =>
+            out_num <= "010";
+        when C =>
+            out_num <= "101";
+        when D =>
+            out_num <= "111";
+        when others =>
+            NULL;
+    end case;
+end process;
+
 end Behavioral;
