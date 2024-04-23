@@ -1,4 +1,8 @@
-# digITall
+<p align="center">
+  <img src="doc/logo/logo.png" width="200"/>
+</p>
+
+# dig_it_all
 
 Workspace to learn basic digital design techniques and languages.
 
