@@ -1,10 +1,13 @@
 # Basic commands for `tb_main.v` test-bench
 
+Compile and run:  
 ```
-❯ iverilog -o test blind_cycler.v tb_main.v
+❯ cd work_v
+❯ iverilog -o test ../blind_cycler.v ../tb_main.v
 ❯ vvp test
 ```
 
+Visualize waveforms with GTKWave:  
 ```
-❯ gtkwave output/outwv.vcd&
+❯ gtkwave ../output/outwv.vcd&
 ```
