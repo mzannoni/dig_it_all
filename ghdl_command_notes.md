@@ -1,4 +1,4 @@
-# Basic commands for `tb_main` test-bench
+# Basic commands for `tb_main.vhdl` test-bench
 
 Analyze, elaborate and run:  
 ```

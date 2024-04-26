@@ -38,7 +38,7 @@ begin
 
 process (nxt)
 begin
-    if(nxt'event and nxt = '1') then
+    if(nxt'event and nxt = '1') then  -- TODO: why not using rising_edge
         case (cur_st) is
             when A =>
                 -- out_num <= "000";
