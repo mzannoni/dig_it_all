@@ -25,7 +25,7 @@ module tb_main;
     wire [2:0] out_num;
 
     initial begin
-        $dumpfile("output/outwv.vcd");
+        $dumpfile("../output/outwv.vcd");
         $dumpvars(0,tb_main);
 
         #400 $finish;
