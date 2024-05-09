@@ -1,4 +1,4 @@
-# Basic commands for `tb_main.v` test-bench
+# Basic commands for `tb_main.v` test-bench with Icarus Verilog
 
 Compile and run:  
 ```
