@@ -2,7 +2,7 @@
 
 Analyze, elaborate and run:  
 ```
-❯ ghdl -a --workdir=work_vhdl *.vhdl
+❯ ghdl -a --workdir=work_vhdl vhdl_src/*.vhdl
 ❯ ghdl -e --workdir=work_vhdl tb_main
 ❯ ghdl -r --workdir=work_vhdl tb_main --wave=output/outwv.ghw --stop-time=20us
 ```
