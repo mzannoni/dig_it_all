@@ -4,16 +4,17 @@ module tb_countones_tst(
     output logic [1:0] out_o  // size needs to be log2(size(count)) to store the index of which of the count elements is selected
 );
 
-    localparam InCnt = 4;
-    localparam InWdt = 8;
+    localparam InCnt = 4;  // number of inputs
+    localparam InWdt = 8;  // width of each input
+    localparam CntWdt = 16;
 
     logic [InWdt-1:0] count_in [InCnt-1:0];
-    reg [15:0] count [InCnt-1:0];
+    reg [CntWdt-1:0] count [InCnt-1:0];
 
     genvar k;
     generate
         for(k=0; k<InCnt; k=k+1) begin
-            count_ones #(.Width(InWdt)) count_ones_i (.in_i(count_in[k]), .out_o(count[k]));
+            count_ones #(.Width(InWdt), .OutWidth(CntWdt)) count_ones_i (.in_i(count_in[k]), .out_o(count[k]));
         end
     endgenerate
 
@@ -46,9 +47,9 @@ module tb_countones_tst(
     always@(count[0], count[1], count[2], count[3]) begin  // iverilog can't exapnd arrays in sensitivity lists
         max_cnt = 0;
         max_cnt_idx = 0;
-        for (int i = 0; i<4; i = i+1) begin
+        for (int i = 0; i<InCnt; i = i+1) begin
             // note the explicit width expansions
-            if (count[i] > ($size(max_cnt)-$size(count))'(max_cnt)) begin
+            if (($size(max_cnt))'(count[i]) > max_cnt) begin
                 max_cnt_idx = i;
                 max_cnt = $size(max_cnt)'(count[i]);
             end
@@ -60,11 +61,12 @@ endmodule
 
 module count_ones
     #(
-        parameter Width = 8
+        parameter Width = 8,
+        parameter OutWidth = 16
     )
     (
         input logic [Width-1:0] in_i,
-        output logic [15:0] out_o
+        output logic [OutWidth-1:0] out_o
     );
 
     always_comb begin
