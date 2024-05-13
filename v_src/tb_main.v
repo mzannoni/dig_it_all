@@ -26,7 +26,7 @@ module tb_main;
 
     initial begin
         $dumpfile("../output/outwv.vcd");
-        $dumpvars(0,tb_main);
+        $dumpvars();
 
         #400 $finish;
     end
