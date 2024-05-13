@@ -1,7 +1,7 @@
 `timescale 10ps/10ps
 
 module tb_countones_tst(
-    output logic [1:0] out_o  // size needs to be log2(size(count)) to store the index of which of the count elements is selected
+    output logic [1:0] out_o  // size needs to be log2(InCnt) to store the index of which of the count elements is selected
 );
 
     localparam InCnt = 4;  // number of inputs
@@ -43,8 +43,8 @@ module tb_countones_tst(
 
     int max_cnt;
     int max_cnt_idx;
-    // always@(count) begin
-    always@(count[0], count[1], count[2], count[3]) begin  // iverilog can't exapnd arrays in sensitivity lists
+    always@(count) begin
+    // always@(count[0], count[1], count[2], count[3]) begin  // iverilog can't exapnd arrays in sensitivity lists
         max_cnt = 0;
         max_cnt_idx = 0;
         for (int i = 0; i<InCnt; i = i+1) begin
