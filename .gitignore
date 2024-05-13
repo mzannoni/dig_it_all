@@ -48,6 +48,7 @@ e~*.lst
 
 # exclude working dir
 work/
+work*/
 
 # exclude output dir
 output/
