@@ -62,9 +62,9 @@ module tb_countones_tst(
 
     int max_cnt;
     int max_cnt_idx;
-    always@(count) begin
-    // always@(count[0], count[1], count[2], count[3]) begin  // iverilog can't exapnd arrays in sensitivity lists
-        max_cnt = 0;
+    // always@(count) begin  // this line seems to work only with Verilator, but apparently is illegal Verilog
+    // FIXME: fix the code to correctly implement parametrization, but in legal Verilog code
+    always@(count[0], count[1], count[2], count[3]) begin  // iverilog can't expand arrays in sensitivity lists, which is anyhow correct according to Verilog        max_cnt = 0;
         max_cnt_idx = 0;
         for (int i = 0; i<InCnt; i = i+1) begin
             // note the explicit width expansions
