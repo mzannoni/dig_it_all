@@ -21,3 +21,4 @@ An [equivalent example](./v_src/tb_main.v) in Verilog can be run following the s
 - [x] implement blind_cycler in Verilog (sim with [Icarus Verilog](https://github.com/steveicarus/iverilog))
 - [x] ~~implement blind_cycler in SystemVerilog (sim with [Verilator](https://github.com/verilator/verilator))~~ no need, same as Verilog
 - [x] separate source files according to language
+- [ ] Verilator examples with Make and CMake
