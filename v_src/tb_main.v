@@ -17,6 +17,9 @@
 //
 ////////////////////////////////////////
 
+// not used here to prevent a warning from Verilator
+// `timescale 10ps/10ps
+
 module tb_main;
 
     reg nxt = 0;
@@ -28,13 +31,13 @@ module tb_main;
         $dumpfile("../output/outwv.vcd");
         $dumpvars();
 
-        #400 $finish;
+        #400 $finish;  // this means 400 times the time unit, defined with `timescale
     end
 
     blind_cycler uut (dir, nxt, out_num);
 
     always #20 nxt = !nxt;
 
-    always #200 dir = 1'b1;
+    always #210 dir = 1'b1;
 
 endmodule // tb_main
